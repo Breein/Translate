@@ -23,7 +23,7 @@ const english = {
   app_welcome_7: "Already have a login?",
   app_welcome_8: "Enter your details to continue the game!",
   app_welcome_9: "Enter data!",
-  app_welcome_10: "Log into the game",
+  app_welcome_10: "Log in to the game",
   app_welcome_11: "Login",
   app_welcome_12: "Password",
   app_welcome_13: "Enter",
